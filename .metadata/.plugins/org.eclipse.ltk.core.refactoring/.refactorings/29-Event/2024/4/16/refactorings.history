@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Practice3.java&apos; to &apos;PP/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;29-Event&apos;&#x0D;&#x0A;- Destination element: &apos;PP/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;Practice3.java&apos;" description="Copy compilation unit" destination="=PP/src&lt;" element1="/src&lt;{Practice3.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1713493379295" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Practice3 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int num = 0;
+		int i = 1;
+		
+		System.out.print("몇 단을 출력할지 입력하세요 : ");
+		num = sc.nextInt();
+		
+		while(true) {
+			
+			System.out.printf("%s * %s = %s\n", num, i, num*i);
+			i++;
+			if(i>9) break;
+			
+		}
+	}
+}
